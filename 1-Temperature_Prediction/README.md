@@ -10,4 +10,4 @@ This project leverages historical temperature data to predict future temperature
 
 ## Versioning
 
-- **Version 1**: Initial prediction model.
+- **Version 1**: Initial prediction model, including data preprocessing, model training, and basic evaluation.
