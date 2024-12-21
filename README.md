@@ -5,15 +5,15 @@ This repository contains projects that implement fundamental machine learning al
 ## Projects
 
 1. **Temperature Prediction**
-   - This project uses historical temperature data to predict future temperatures.
+   - This project uses historical temperature data to predict future temperatures using raw functions.
    - [Temperature Prediction Project](https://github.com/XavierMerinoM/Machine_Learning/tree/main/1-Temperature_Prediction)
 
 2. **Student Grades Prediction V1**
-   - This project aims to predict student grades based on various features.
+   - This project aims to predict student grades based on various features using raw functions.
    - [Student Grades Prediction V1 Project](https://github.com/XavierMerinoM/Machine_Learning/tree/main/2-Student_Grades_Prediction_V1)
 
 3. **Student Grades Prediction V2**
-   - An improved version of the Student Grades Prediction project with additional features and refined models.
+   - An improved version of the Student Grades Prediction project with additional features and refined models using scikit-learn.
    - [Student Grades Prediction V2 Project](https://github.com/XavierMerinoM/Machine_Learning/tree/main/3-Student_Grades_Prediction_V2)
 
 ## Repository Structure
