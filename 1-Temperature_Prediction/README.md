@@ -4,8 +4,8 @@ This project uses historical temperature data to predict future temperatures usi
 
 ## Project Structure
 
-- **inamhi-temperaturamedia-201912**: Contains the dataset used for training and testing the model. This is an open-data file from INAMHI of Ecuador.
-- **E1_Temp_media_linear_regression**: Jupyter Notebook for data exploration, model training, and evaluation.
+- **inamhi-temperaturamedia-201912.csv**: Contains the dataset used for training and testing the model. This is an open-data file from INAMHI of Ecuador.
+- **E1_Temp_media_linear_regression.ipynb**: Jupyter Notebook for data exploration, model training, and evaluation.
 - The remaining files' purposes are: plot formatting, and extra math functions.
 
 ## Versioning
