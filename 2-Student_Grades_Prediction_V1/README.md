@@ -1,6 +1,6 @@
 # Student Grades Prediction
 
-This project uses historical temperature data to predict future temperatures using Linear Regression.
+This project leverages historical temperature data to predict future temperatures using Linear Regression. It aims to provide insights for climate analysis and decision-making in various sectors.
 
 ## Project Structure
 
