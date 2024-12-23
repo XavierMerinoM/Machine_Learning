@@ -2,6 +2,17 @@
 
 This project analyzes historical student performance data data to predict grade class using Linear Regression. The objective is to predict the grade of students based on specific data and get insights based on this data. This project uses functions made from scratch to perform the processes.
 
+## Algorithms
+
+**Feature Scaling**
+- Z-Score
+**Prediction**
+- Simple Linear Regression
+**Fine-tuning**
+- Gradient Descent
+**Evaluation**
+- Mean Squared Error
+
 ## Project Structure
 
 - **student_performance_data.csv**: Contains the dataset used for training and testing the model. This databse is open-data from Kaggle.
