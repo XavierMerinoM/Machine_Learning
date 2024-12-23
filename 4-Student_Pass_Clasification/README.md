@@ -7,6 +7,7 @@ This project analyzes historical student performance data to predict if a studen
 **Dataset Analysis**
 - For ouliers: Tukey's Fences and Z-Score.
 - For column analysis: Low Variance and High correlation
+- Cross-validation: K-fold with 10 folds
   
 **Prediction**
 - Logistic Regression
