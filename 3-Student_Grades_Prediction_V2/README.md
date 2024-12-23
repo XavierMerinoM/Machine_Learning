@@ -7,11 +7,13 @@ This project analyzes historical student performance data data to predict grade 
 **Dataset Analysis**
 - For ouliers: Tukey's Fences and Z-Score.
 - For column analysis: Low Variance and High correlation
+  
 **Prediction**
 - Linear Regression: Lasso, Ridge, and Elastic Net
 - Polynomial degree two and three for the three methods
 - Neural Network Model for Regression
 - Gradient Boosting Model for Regression
+  
 **Evaluation**
 - Performance: Mean Squared Error
 - Loss curve for Neural Network convergence
