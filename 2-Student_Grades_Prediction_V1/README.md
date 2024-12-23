@@ -1,6 +1,6 @@
-# Student Grades Prediction
+# Student Grades Prediction - V1
 
-This project analyzes historical student performance data data to predict grade class using Linear Regression. The objective is to predict the grade of students based on specific data and get insights based on this data.
+This project analyzes historical student performance data data to predict grade class using Linear Regression. The objective is to predict the grade of students based on specific data and get insights based on this data. This project uses functions made from scratch to perform the processes.
 
 ## Project Structure
 
