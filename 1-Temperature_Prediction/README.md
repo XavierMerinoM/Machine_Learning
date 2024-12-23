@@ -7,8 +7,10 @@ This project leverages historical temperature data to predict future temperature
 **Prediction**
 - Simple Linear Regression
 - Stochastic Gradient Descent
+  
 **Fine-tuning**
 - Gradient Descent
+  
 **Evaluation**
 - Mean Squared Error
 
