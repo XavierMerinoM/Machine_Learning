@@ -6,10 +6,13 @@ This project analyzes historical student performance data data to predict grade 
 
 **Feature Scaling**
 - Z-Score
+  
 **Prediction**
 - Simple Linear Regression
+  
 **Fine-tuning**
 - Gradient Descent
+  
 **Evaluation**
 - Mean Squared Error
 
