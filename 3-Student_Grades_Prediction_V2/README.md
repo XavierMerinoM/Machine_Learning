@@ -13,7 +13,10 @@ This project analyzes historical student performance data data to predict grade 
 - Polynomial degree two and three for the three methods
 - Neural Network Model for Regression
 - Gradient Boosting Model for Regression
-  
+
+**Fine-Tuning**
+- Grid search
+
 **Evaluation**
 - Performance: Mean Squared Error
 - Loss curve for Neural Network convergence
