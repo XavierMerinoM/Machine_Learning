@@ -1,6 +1,16 @@
 # Temperature Prediction
 
-This project leverages historical temperature data to predict future temperatures using Linear Regression. It aims to provide insights for climate analysis and decision-making in various sectors.
+This project leverages historical temperature data to predict future temperatures using Linear Regression. It aims to provide insights for climate analysis and decision-making in various sectors. This version uses raw functions and scikit-learn to perform the predictions.
+
+## Algorithms
+
+**Prediction**
+- Simple Linear Regression
+- Stochastic Gradient Descent
+**Fine-tuning**
+- Gradient Descent
+**Evaluation**
+- Mean Squared Error
 
 ## Project Structure
 
