@@ -10,7 +10,10 @@ This project analyzes historical student performance data to predict if a studen
   
 **Prediction**
 - Logistic Regression
-  
+
+**Fine-Tuning**
+- Grid search
+
 **Evaluation**
 - Confusion matrix
 - Performance metrics: accuracy, precision, recall, specificity, and false positive rate.
