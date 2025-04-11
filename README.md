@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains projects that implement fundamental machine learning algorithms. Each project is organized into its directory with relevant code and documentation.
+This repository contains projects that implement traditional machine learning algorithms. Each project is organized into its directory with relevant code and documentation.
 
 ## Projects
 
