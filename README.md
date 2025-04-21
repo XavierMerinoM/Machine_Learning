@@ -16,6 +16,10 @@ This repository contains projects that implement traditional machine learning al
    - An improved version of the Student Grades Prediction project with additional features and refined models using scikit-learn.
    - [Student Grades Prediction V2 Project](https://github.com/XavierMerinoM/Machine_Learning/tree/main/3-Student_Grades_Prediction_V2)
 
+4. **Student_Pass_Clasification**
+   - This project uses the same database of Student Grades Prediction V1 and V2 to classify whether a student passes a subject.
+   - [Student_Pass_Clasification](https://github.com/XavierMerinoM/Machine_Learning/tree/main/4-Student_Pass_Clasification)
+
 ## Repository Structure
 
 - Each project directory contains its own README.md file with more detailed information about the project.
